@@ -6,10 +6,26 @@ Before starting, download [R and RStudio](https://posit.co/download/rstudio-desk
 
 Save this new spreadsheet as "Enthalpy_Data.xlsx".
 
+Download the code to make the boxplot by doing the following:
+![code_dl](https://github.com/isobelmcrae/isobelmcrae/blob/main/boxplots/downloading_code.png)
+
+Unzip this folder to a place you can find later. 
+
 ## Making the Boxplot:
+Open RStudio, and open the .Rproj file as an Existing Directory:
+
+![opening](https://github.com/isobelmcrae/isobelmcrae/blob/main/boxplots/opening_files.png)
+
+Then, open the .R file from the sidebar.
+
+![openCode](https://github.com/isobelmcrae/isobelmcrae/blob/main/boxplots/opening_code.png)
+
 Run the following commands in the **CONSOLE** area of RStudio:
+<br>
+<br>
 ``install.packages("tidyverse")``
 
+![installing packages](https://github.com/isobelmcrae/isobelmcrae/blob/main/boxplots/install_packages.png)
 
 After that has completed, go to File -> Import Dataset -> From Excel, and allow the program to install any packages required. Repeat this again to open the import menu.
 
