@@ -1,6 +1,6 @@
 # Enthalpy Boxplot
 
-Before starting, download [R and RStudio](https://posit.co/download/rstudio-desktop/) (+ Command Line Tools if on Mac), and [Git](https://git-scm.com/downloads). You will also need to create an Excel spreadsheet with all values that you would like to use in the following format:
+Before starting, download [R and RStudio](https://posit.co/download/rstudio-desktop/) (+ Command Line Tools if on Mac), and [Git](https://git-scm.com/downloads) (should only be needed if using Windows). You will also need to create an Excel spreadsheet with all values that you would like to use in the following format:
 
 ![excel](https://github.com/isobelmcrae/isobelmcrae/blob/main/boxplots/excel.png)
 
