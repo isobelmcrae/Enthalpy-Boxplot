@@ -6,15 +6,11 @@ Before starting, download [R and RStudio](https://posit.co/download/rstudio-desk
 
 Save this new spreadsheet as "Enthalpy_Data.xlsx".
 
-Download the code to make the boxplot by doing the following:
-![code_dl](https://github.com/isobelmcrae/isobelmcrae/blob/main/boxplots/downloading_code.png)
-
-Unzip this folder to a place you can find later. 
 
 ## Making the Boxplot:
-Open RStudio, and open the .Rproj file as an Existing Directory:
+Open RStudio, then click Version Control > Git. In the popup menu, paste the following link (https://github.com/isobelmcrae/Enthalpy-Boxplot.git) into the "Repository URL" box, then change the "Project Directory Name" to anything you want, then click create project.
 
-![opening](https://github.com/isobelmcrae/isobelmcrae/blob/main/boxplots/opening_files.png)
+![git](https://github.com/isobelmcrae/isobelmcrae/blob/main/boxplots/version_control.png)
 
 Then, open the .R file from the sidebar.
 
